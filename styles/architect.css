@@ -24,6 +24,11 @@
     cursor: pointer;
     border: 0;
 }
+.section-title {
+    font-size: 2.8rem;
+    color: #131313;
+    font-weight: 700;
+}
 
 /* header style */
 header {
@@ -53,12 +58,7 @@ nav li a {
     color: #424242;
 }
 
-.nav-title {
-    text-align: center;
-    font-size: 2.8rem;
-    color: #131313;
-    font-weight: 700;
-}
+
 
 /* banner style */
 
