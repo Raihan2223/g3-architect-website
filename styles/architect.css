@@ -10,7 +10,7 @@
 }
 
 .text-light-gray {
-    color: #727272);
+    color: #727272;
 
 }
 
@@ -266,8 +266,12 @@ main {
     nav,
     .teams-container,
     .features,
-    .sponsors-img-container, {
+    .sponsors-img-container {
         flex-direction: column;
+    }
+    .feature-img img {
+        width: 90%;
+        margin-left: 0;
     }
     .ten-years-badge{
         display: flex;
